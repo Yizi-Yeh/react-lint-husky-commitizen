@@ -1,0 +1,1 @@
+# react-lint-husky-commitizen
